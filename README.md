@@ -1,4 +1,4 @@
-# Open-Source-Softwar# 
+# Open-Source-SoftwarE# 
 
 > **Open Source Software — Capstone Project (OSS NGMC)**
 > VITyarthi Portal Submission
