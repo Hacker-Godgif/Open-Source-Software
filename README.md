@@ -1,4 +1,4 @@
-# Open-Source-SoftwarE# 
+# Open-Source-Software# 
 
 > **Open Source Software — Capstone Project (OSS NGMC)**
 > VITyarthi Portal Submission
@@ -28,7 +28,7 @@ The full written report (PDF) is submitted separately on the VITyarthi portal.
 ## Repository Structure
 
 ```
-oss-audit-[rollnumber]/
+oss-audit/
 ├── README.md
 ├── script1_system_identity.sh
 ├── script2_package_inspector.sh
